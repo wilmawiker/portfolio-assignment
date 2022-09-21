@@ -1,5 +1,5 @@
 .bg-primary {
-    background-color: #198754 !important;
+    background-color: #e5989b !important;
 }
 
 .animation {
@@ -23,6 +23,17 @@
       }
 }
 
+.header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20vw;
+}
+
+h3 {
+    color: #6d6875;
+}
+
 article {
     margin-top: 5px !important;
 }
@@ -34,13 +45,13 @@ article {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    background-color: #198754;
+    background-color: #e5989b;
     color: white;
     border-radius: 100px;
 }
 
 .download-button:hover {
-    background-color: #146d43;
+    background-color: #b5838d;
 }
 
 .download-link {
